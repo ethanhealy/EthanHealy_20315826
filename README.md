@@ -13,7 +13,7 @@ cd backend
 
 npm install
 
-node server.js
+npm run start
 
 
 new terminal:
