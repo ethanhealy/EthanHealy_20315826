@@ -1,7 +1,0 @@
-agent ExampleAgent {
-    module Console console;
-
-    rule +!main(list args) {
-        console.println("Hello, ASTRA!");
-    }
-}
