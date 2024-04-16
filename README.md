@@ -1,13 +1,13 @@
 # Getting Started the app
 
-run:
+# run:
 
 
 npm install
 
 npm run start
 
-new terminal:
+# in a new terminal run:
 
 cd backend
 
@@ -16,7 +16,7 @@ npm install
 npm run start
 
 
-new terminal:
+# in a new terminal run:
 
 cd backend
 
